@@ -24,8 +24,8 @@
 
 Three scripts are currently available to exemplify the feature annotation capabilities:
 
-1.- "ft_annot.praat": it automatizes the process of annotating features in existing tiers 
+1.- "script_ft_annot.praat": it automatizes the process of annotating features in existing tiers 
 
-2.- "ft_merge.praat": it merges the features of tiers containing same time intervals with different labels
+2.- "script_ft_merge.praat": it merges the features of tiers containing same time intervals as a specified reference tier
 
-3.- "ft_split.praat": it splits features into different tiers and intervals
+3.- "script_ft_split.praat": it splits features of a specified tier into different tiers
