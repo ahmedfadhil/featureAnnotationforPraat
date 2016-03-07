@@ -15,8 +15,8 @@
 # Software
 ###################
 
--  "praat-ext-feature.exe" is a self executable package. You can download the whole package and install it in your computer. It can either replace or co-exist with your current version of Praat.
--  "pluging" ?? Joan
+-  "praat-ext-feature" is a self executable package. You can download the whole package and install it in your computer. It can either replace or co-exist with your current version of Praat.
+-  "plugging" ?? Joan
 
 ####################
 # Scripts
