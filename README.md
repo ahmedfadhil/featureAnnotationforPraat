@@ -26,4 +26,4 @@ Three scripts are currently available to exemplify the feature annotation capabi
 
 2.- "script_ft_merge.praat": it merges the features of tiers containing same time intervals as a specified reference tier
 
-3.- "script_ft_split.praat": it splits features of a specified tier into different tiers
+3.- "script_ft_split.praat": it splits features of a specified tier interval into different tiers at the same interval time
