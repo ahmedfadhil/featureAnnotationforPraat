@@ -1,10 +1,9 @@
-# featureAnnotationforPraat
-## This repository contains an extended Praat version which allows feature annotation in interval and point segments 
-## and scripts to exemplify its functionalities.
+# Extension for Feature Annotation
+This repository contains an extended Praat version which allows feature annotation in interval and point segments and scripts to exemplify its functionalities.
 #############################
 
 #####################
-# System requirements
+## System requirements
 #####################
 
 - Linux OS 
@@ -12,14 +11,13 @@
 
 
 ###################
-# Software
+## Software
 ###################
 
 -  "praat-ext-feature" is a self executable package. You can download the whole package and install it in your computer. It can either replace or co-exist with your current version of Praat.
--  "plugging" ?? Joan
 
 ####################
-# Scripts
+## Scripts
 ####################
 
 Three scripts are currently available to exemplify the feature annotation capabilities:
