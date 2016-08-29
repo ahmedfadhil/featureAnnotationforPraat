@@ -33,7 +33,8 @@ Three scripts are currently available to exemplify the feature annotation capabi
 3.- "script_ft_split.praat": it splits features of a specified tier interval into different tiers at the same interval time
 
 #####################
-## Reference
+## References and Citation
 #####################
+If you use this software or modify the code please cite the following publication:
 
   - Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation. Under submission
