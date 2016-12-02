@@ -1,6 +1,6 @@
 # Extended Praat for Feature Annotation
 This repository contains an extended Praat version which allows feature annotation in interval and point segments for local use.
-Further information on the extension for feature annotation can be found in our publication (Domínguez et al., 2016) and an online implementation and demos for splitting features and merging tiers are available in the following link http://kristina.taln.upf.edu/praat_web/
+Further information on the extension for feature annotation can be found in our publication (Domínguez et al., 2016) and an online implementation and demos for splitting features and merging tiers are available in the following link http://kristina.taln.upf.edu/praatweb/
 
 #############################
 
