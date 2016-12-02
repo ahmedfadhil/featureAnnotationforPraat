@@ -36,4 +36,4 @@ Three scripts are currently available to exemplify the feature annotation capabi
 #####################
 If you use this software or modify the code please cite the following publication:
 
-  - Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation. Under submission
+  - Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation. In Proceedings of the 25th International Conference on Computational Linguistics, Osaka, Japan.
