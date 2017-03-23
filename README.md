@@ -16,7 +16,7 @@ Further information on the extension for feature annotation can be found in our 
 ## Software
 ###################
 
--  "praat-ext-feature" is a self executable package. You can download the whole package and install it in your computer. It can either replace or co-exist with your current version of Praat.
+-  "praat-ft-annot" is a self executable package. You can download the whole package and install it in your computer. It can either replace or co-exist with your current version of Praat.
 -  This extension of Praat has been done on Praat v6.0.11 
 -  Extended Praat is backward compatible with older versions of Praat and keep all functionalities included until version v6.0.11
 
